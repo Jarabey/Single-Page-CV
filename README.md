@@ -16,9 +16,13 @@ Single Page CV that include:
 ### 🌟 Project
 https://roadmap.sh/projects/single-page-cv
 
-### How to Use
+### 🌟 How to Use
 
 1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/cv-project.git
 2. Open index.html in a web browser to view the CV.
 3. Customize the content in the HTML file, such as replacing links and modifying text to suit your profile.
-   
+
+### 🌟 Live Website
+[Jasmin Santos CV](https://jasminsantoscv.netlify.app/)
