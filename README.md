@@ -20,7 +20,7 @@ https://roadmap.sh/projects/single-page-cv
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/jarabey/cv-project.git
+   gh repo clone Jarabey/Single-Page-CV
 2. Open index.html in a web browser to view the CV.
 3. Customize the content in the HTML file, such as replacing links and modifying text to suit your profile.
 
